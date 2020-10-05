@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.cab17ab1.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.17dbb5af.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.17dbb5af.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.a571859c.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.a571859c.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/React-Portfolio/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.0752a909.chunk.js": "/React-Portfolio/static/js/2.0752a909.chunk.js",
+    "static/js/2.0752a909.chunk.js.map": "/React-Portfolio/static/js/2.0752a909.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.55a304aefa24aab16914063c46cfabb1.js": "/React-Portfolio/precache-manifest.55a304aefa24aab16914063c46cfabb1.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/React-Portfolio/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.cab17ab1.chunk.css.map": "/React-Portfolio/static/css/main.cab17ab1.chunk.css.map",
+    "static/js/2.0752a909.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.0752a909.chunk.js.LICENSE.txt",
+    "static/media/BirdieHomepage.png": "/React-Portfolio/static/media/BirdieHomepage.828c1077.png",
+    "static/media/Epicure.png": "/React-Portfolio/static/media/Epicure.599f1c20.png",
+    "static/media/PasswordGenerator2.png": "/React-Portfolio/static/media/PasswordGenerator2.fdfc7a2c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a571859c.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.0752a909.chunk.js",
+    "static/css/main.cab17ab1.chunk.css",
+    "static/js/main.17dbb5af.chunk.js"
+  ]
+}
